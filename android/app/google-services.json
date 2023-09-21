@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107237964384",
+    "project_id": "fitness-655d9",
+    "storage_bucket": "fitness-655d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107237964384:android:bb73902e91193a5d3fe105",
+        "android_client_info": {
+          "package_name": "com.example.fitness_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0q9387d-ymK7IW1PVYKyIlmzJuYd5UEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
